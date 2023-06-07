@@ -21,7 +21,7 @@ var map = [
 
 map = [""];
 
-for (i=0; i<400; i++)
+for (i=0; i<400-1; i++)
   {
 map.push(Math.round(Math.random() ));
     console.log(map);
